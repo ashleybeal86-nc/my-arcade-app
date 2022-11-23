@@ -1,7 +1,7 @@
 import React from 'react';
 import { MDBCol, MDBContainer, MDBRow, MDBCard, MDBCardText, MDBCardBody, MDBCardImage, MDBTypography, MDBIcon } from 'mdb-react-ui-kit';
 
-export default function Profile() {
+ function Profile() {
     return (
         <section className="vh-100" style={{ backgroundColor: '#f4f5f7' }}>
             <MDBContainer className="py-5 h-100">
@@ -58,3 +58,5 @@ export default function Profile() {
         </section>
     );
 }
+
+export default Profile

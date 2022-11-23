@@ -16,6 +16,7 @@ Our application is a multi-facted game application that is designed specifically
 | GET           | /                              | Home Page                                        |
 | GET           | /home                          | Home Page index page/nav                         |
 | GET           | /about                         | Link to about us page                            |
+| GET           | /profile                       | Link to user profile page                        |
 | GET           | /store                         | Link to our Store page                           |
 | GET           | /tictactoe                     | Link to our Tic-Tac-Toe game page                |
 | GET           | /hangman                       | Link to our Hangman game page                    |
