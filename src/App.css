@@ -61,6 +61,11 @@
   background-image: linear-gradient(79deg, #d1d153, #ee7cee, 48%, #499edf);
 }
 
+.profile {
+  height: vh-100;
+  background-image: linear-gradient(79deg, #d1d153, #ee7cee, 48%, #499edf);
+}
+
 .registerform {
   text-align: center;
   display: flex;
@@ -108,4 +113,34 @@ card {
   box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
   cursor: pointer;
   transition: 0.4s;
+}
+
+.Profile {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: linear-gradient(79deg, #d1d153, #ee7cee, 48%, #499edf);
+}
+
+.profilebutton{
+  border: none;
+background-color: white;
+border-right: 3em;
+padding: 1rem;
+border-radius: 10px;
+cursor: pointer;
+color: #7439db;
+font-style: larger;
+}
+
+.dangerbutton{
+border: none;
+background-color: white;
+padding: 1rem;
+border-radius: 10px;
+cursor: pointer;
+color: #e6361f;
 }
