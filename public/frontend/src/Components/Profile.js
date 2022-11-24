@@ -126,7 +126,7 @@ function Profile() {
                         </div>
 
                         <div class="gap-3 d-md-flex justify-content-md-end text-center">
-                            <button type="button" class="btn btn-danger btn-lg">Delete profile</button>
+                            <button type="button" class="dangerbutton">Delete profile</button>
                             <button type="button" class="profilebutton">Update profile</button>
                         </div>
                     </form>
