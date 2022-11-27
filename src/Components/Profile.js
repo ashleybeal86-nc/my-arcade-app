@@ -94,7 +94,7 @@ function Profile() {
 
                                         <div class="col-md-6">
                                             <label class="form-label"><i class="fab fa-fw fa-instagram text-instagram me-2"></i>Instagram *</label>
-                                            <input type="text" class="form-control" placeholder="" aria-label="Instragram" value="http://www.instragram.com"/>
+                                            <input type="text" class="form-control" placeholder="" aria-label="Instagram" value="http://www.instragram.com"/>
                                         </div>
                                     </div>
                                 </div>
