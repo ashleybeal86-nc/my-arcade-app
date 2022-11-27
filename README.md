@@ -20,7 +20,7 @@ Our application is a multi-facted game application that is designed specifically
 | GET           | /store                         | Link to our Store page                           |
 | GET           | /tictactoe                     | Link to our Tic-Tac-Toe game page                |
 | GET           | /hangman                       | Link to our Hangman game page                    |
-| GET           | /frogger                       | Link to our Frogger game page                    |
+| GET           | /tetris                        | Link to our Tetris game page                    |
 | POST          | /login                         | User login page                                  |
 | GET           | /signup                        | Page for creating a new user profile             | 
 | GET           | *                              | 404 page (matches any route not defined above)   |
@@ -28,8 +28,8 @@ Our application is a multi-facted game application that is designed specifically
 
 
 ## More About this website application...
-This web application was built using React, Node, Mongo DB
+This web application was built using React, Node, Postgres
 ## Functionality Issues/Bugs/Addressing Anything Unfinished:
 ![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6umsqQkLMdf5QxPkIGR0dH_wegJVc0o-xog&usqp=CAU)
 
-We were not able to fully finish developing our store page or add as many games as we would have liked, but we are overall happy with what we have accomplished as a team.
+We were not able to fully finish developing our store page or add as many games as we would have liked, but we are overall happy with what we have accomplished as a team.  We were also not able to fully finish our functionality with saving user data to our database, but have a working frontend and backend and a Postgres database connected.

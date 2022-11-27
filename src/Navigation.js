@@ -46,8 +46,7 @@ function Navigation() {
                 <NavDropdown.Item as={Link} to="/tetris">
                   Tetris
                 </NavDropdown.Item>
-                <NavDropdown.Item as={Link} to="/frogger">Frogger</NavDropdown.Item>
-                <NavDropdown.Divider />
+
                 <NavDropdown.Item as={Link} to="/games">
                   All Games
                 </NavDropdown.Item>
